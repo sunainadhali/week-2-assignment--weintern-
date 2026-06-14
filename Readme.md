@@ -14,11 +14,11 @@
 The website promotes eco-friendly tourism, cultural immersion, wildlife encounters, and responsible travel through an engaging and visually appealing user experience. Built using semantic HTML5, CSS3, Flexbox, CSS Grid, animations, and JavaScript, the project demonstrates modern frontend development practices and responsive design principles.
 
 ---
-
+🔗[Main Navigation Page](https://sunainadhali.github.io/week-2-assignment--weintern-/)
 # Live Demo
 
-🔗 **Live Website:**
-https://sunainadhali.github.io/week-2-assignment--weintern-/
+🔗[view live](https://sunainadhali.github.io/week-2-assignment--weintern-/Responsive%20company%20website/index.html)
+
 
 🔗 **GitHub Repository:**
 https://github.com/sunainadhali/week-2-assignment--weintern-
@@ -281,13 +281,20 @@ The website has been optimized for:
 
 | Section       | Screenshot     |
 | ------------- | -------------- |
-| Home Page     | Add Screenshot |
-| About Section | Add Screenshot |
-| Destinations  | Add Screenshot |
-| Services      | Add Screenshot |
-| Testimonials  | Add Screenshot |
-| Contact Form  | Add Screenshot |
-| Mobile View   | Add Screenshot |
+| Home Page     | ![Home Desktop](screenshots/desktop-home.png) |
+| Home Page     | ![Home mobile](screenshots/mobile-home.png) |
+| Home Page     | ![Home tablet](screenshots/tablet-home.png) |
+| About Section | ![About Desktop](screenshots/desktop-about.png) |
+| About Section | ![About mobile](screenshots/mobile-about.png) |
+| About Section | ![About tablet](screenshots/tablet-about.png) |
+| Destinations  | ![Destination](screenshots/destination.png)|
+| Services      | ![services Desktop](screenshots/desktop-service.png) |
+| Services      | ![ services mobile](screenshots/mobile-service.png) |
+| Services      | ![ services tablet](screenshots/tablet-service.png) |
+| Testimonials  | ![testimonal](screenshots/tablet-testimonal.png)|
+| Contact Form  |![contact Desktop](screenshots/desktop-contact.png) |
+| Contact Form  | ![contact mobile](screenshots/mobile-contact.png) |
+| Contact Form  |![contact tablet](screenshots/tablet-contact.png) |
 
 ---
 
